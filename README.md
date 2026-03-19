@@ -1,6 +1,7 @@
 # Hi, I'm Mehrdad 👋
 
 **Senior AI Product Manager | Senior Technical Product Manager** 
+
 AI/Data Platforms · Enterprise SaaS · 0→1 and Scale
 
 [Portfolio](https://mehrdadarjmand.com) · [LinkedIn](https://linkedin.com/in/mehrdadarjmand)
@@ -18,9 +19,13 @@ I build AI-enabled enterprise products that translate technical complexity into 
 ## Featured Project — Service AI
 
 **[Live Demo](https://serviceai.mehrdadarjmand.com/) · [Repository](https://github.com/mehrdad-arjmand/mehrdadarjmand-serviceai)**
+
 **The problem:** Enterprise teams lose time querying AI tools that return results from the wrong knowledge domain. Generic RAG retrieves globally across all documents — a support agent's query surfaces engineering specs, a sales query surfaces unrelated product docs. The precision problem is a product design problem, not a model problem.
+
 **What I decided:** Scope retrieval by metadata *before* semantic search — filter to the relevant document subset based on query context, then rank within that scope. This improves answer precision without sacrificing recall, and it mirrors how enterprise users actually frame queries by domain.
+
 **What I built:** A metadata-scoped enterprise RAG assistant with grounded retrieval, structured diagnostic support, and a full PRD documenting the product requirements, feature prioritization, and evaluation framework.
+
 **Stack:** TypeScript · React · Supabase · Tailwind · shadcn-ui · Vercel
 
 ## Currently Building
