@@ -1,22 +1,38 @@
 # Hi, I'm Mehrdad 👋
 
-Senior Product Manager (AI & Technical) | AI/Data Platforms | Enterprise SaaS | 0→1 and Scale
+**Senior AI Product Manager | Senior Technical Product Manager** 
+AI/Data Platforms · Enterprise SaaS · 0→1 and Scale
 
-I build AI-enabled enterprise products that translate technical complexity into measurable business outcomes. My work spans product strategy, technical execution, and cross-functional delivery across data platforms, AI workflows, and scalable SaaS systems.
+[Portfolio](https://mehrdadarjmand.com) · [LinkedIn](https://linkedin.com/in/mehrdadarjmand)
 
-10+ years experience • 35+ team members led • $20M+ operations supported
+I build AI-enabled enterprise products that translate technical complexity into measurable business outcomes — across data platforms, LLM workflows, and scalable SaaS systems.
+
+**10+ years experience • 35+ team members led • $20M+ operations supported**
 
 ## What I Build
-- Enterprise RAG and LLM workflow products with grounded retrieval, abstention logic, and measurable reliability
-- Technical product systems spanning API design, data pipelines, observability, scalability patterns, and reliability management
-- AI agent workflow prototypes (tool-calling, context engineering, evaluation loops) translated into PM requirements and delivery plans
-- 0→1 MVPs to scaled platform modules with product analytics, instrumentation, and decision-focused iteration
+- **Enterprise RAG and LLM workflows** — grounded retrieval, abstention logic, metadata-scoped precision, measurable reliability
+- **Technical product systems** — API design, data pipelines, observability, scalability patterns, reliability management
+- **AI agent workflows** — tool-calling, context engineering, stateful agents, evaluation loops — translated into PM requirements and delivery plans
+- **0→1 to scaled platform** — product analytics, instrumentation, and decision-focused iteration across the full product lifecycle
 
-## Featured Work
-- Service AI (Live Demo + PRD): metadata-scoped enterprise RAG assistant for grounded diagnostic support
+## Featured Project — Service AI
+
+**[Live Demo](https://serviceai.mehrdadarjmand.com/) · [Repository](https://github.com/mehrdad-arjmand/mehrdadarjmand-serviceai)**
+**The problem:** Enterprise teams lose time querying AI tools that return results from the wrong knowledge domain. Generic RAG retrieves globally across all documents — a support agent's query surfaces engineering specs, a sales query surfaces unrelated product docs. The precision problem is a product design problem, not a model problem.
+**What I decided:** Scope retrieval by metadata *before* semantic search — filter to the relevant document subset based on query context, then rank within that scope. This improves answer precision without sacrificing recall, and it mirrors how enterprise users actually frame queries by domain.
+**What I built:** A metadata-scoped enterprise RAG assistant with grounded retrieval, structured diagnostic support, and a full PRD documenting the product requirements, feature prioritization, and evaluation framework.
+**Stack:** TypeScript · React · Supabase · Tailwind · shadcn-ui · Vercel
+
+## Currently Building
+
+- Completing coursework in NLP, LLM fundamentals, and agentic AI workflows
+- Deepening evaluation frameworks for production AI systems (concept drift, model baselines, LLM Ops)
 
 ## Let's Connect
-If you're building AI products that require strong product judgment plus technical execution, I'd be happy to connect and exchange ideas.
+
+I'm interested in connecting with people building AI products that require both strong product judgment and genuine technical execution — particularly in enterprise AI, data platforms, and LLM-powered workflows.
+
+Reach me through [LinkedIn](https://linkedin.com/in/mehrdadarjmand) or explore my work at [mehrdadarjmand.com](https://mehrdadarjmand.com).
 
 <!--
 **mehrdad-arjmand/mehrdad-arjmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
