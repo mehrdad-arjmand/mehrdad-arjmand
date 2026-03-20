@@ -12,7 +12,7 @@ I build AI-enabled enterprise products across data platforms, LLM workflows, and
 - **AI agent workflows** — tool-calling, context engineering, stateful agents, evaluation loops — translated into PM requirements and delivery plans
 - **0→1 to scaled platform** — product analytics, instrumentation, and decision-focused iteration across the full product lifecycle
 
-## Featured Project — Service AI · **[Live Demo](https://serviceai.mehrdadarjmand.com/) · [Repository](https://github.com/mehrdad-arjmand/mehrdadarjmand-serviceai)**
+## Featured Project — [Service AI](https://serviceai.mehrdadarjmand.com/)
 
 **The problem:** Enterprise teams lose time querying AI tools that return results from the wrong knowledge domain. Generic RAG retrieves globally across all documents — a support agent's query surfaces engineering specs, a sales query surfaces unrelated product docs. The precision problem is a product design problem, not a model problem.
 
