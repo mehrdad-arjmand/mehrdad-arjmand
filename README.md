@@ -20,7 +20,7 @@ I build AI-enabled enterprise products across data platforms, LLM workflows, and
 
 **What I built:** A metadata-scoped enterprise RAG assistant with grounded retrieval, structured diagnostic support, and a full PRD documenting the product requirements, feature prioritization, and evaluation framework.
 
-**Stack:** TypeScript · React · Supabase · Tailwind · shadcn-ui · Vercel
+**Stack:** TypeScript · React · Supabase · Tailwind · Vercel
 
 ## Currently Building
 
