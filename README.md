@@ -1,6 +1,6 @@
 # Hi, I'm Mehrdad 👋
 
-**Senior AI Product Manager | Senior Technical Product Manager** 
+**Senior Technical Product Manager | Senior AI Product Manager** 
 
 I build AI-enabled enterprise products across data platforms, LLM workflows, and scalable SaaS systems — from 0→1 through scale — translating technical complexity into measurable business outcomes. Explore my work at [mehrdadarjmand.com](https://mehrdadarjmand.com) or connect on [LinkedIn](https://linkedin.com/in/mehrdadarjmand)
 
